@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#define DEBUG true
+#define DEBUG false
 using namespace std; // 不规范不过反正也不维护了就这样吧233
 map<string,string> pinyinToCharacter;
 string try_convert(string s){
