@@ -1,0 +1,2268 @@
+{
+    "channel_count": 1,
+    "descriptions": [
+        {
+            "begin_index": "",
+            "channel_count": 1,
+            "file_name": "_dei_tei_nei_lei.wav",
+            "length": "9h0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "9h0BAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_qi_an_nin_an_ting_an_ci_an.wav",
+            "length": "5L8BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "2t0CAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_san_wan_duan_tuan_nuan_luan_guan_kuan.wav",
+            "length": "dvoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "UNgEAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_dong_bian_chai_nian_fei_liao_shua_an.wav",
+            "length": "sAsCAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "AOQGAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_diu_niu_liu_jiu_qiu_xiu_bu_pu.wav",
+            "length": "ruwBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "rtAIAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_wu_yu_nv_lv_ju_qu_xu_yun.wav",
+            "length": "AtgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "sKgKAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_guai_kuai_huai_zhuai_chuai_shuai_an_ban.wav",
+            "length": "ruwBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "XpUMAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_kui_hui_zhui_chui.wav",
+            "length": "visBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "HMENAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_jin_ao_ling_ao_zi_ao_ri_ao.wav",
+            "length": "qq4BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "xm8PAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_jin_e_jing_e_ci_e_zhi_e.wav",
+            "length": "POkBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "AlkRAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_di_hei_bin_hei_ai_ou_yue.wav",
+            "length": "ALkBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "AhITAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_fo_en_yong_en_hu_en_yu_en.wav",
+            "length": "kvMBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "lAUVAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_lia_jia_qia_xia.wav",
+            "length": "TCgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "4C0WAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_tou_lou_gou_kou.wav",
+            "length": "9h0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "1ksXAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_cui_cui_gen_cen_keng_曾_chou_diu.wav",
+            "length": "sAsCAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "hlcZAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_cui_sui_en_ben_pen_men_fen_nen.wav",
+            "length": "POkBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "wkAbAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_seng_xi_yi_xin.wav",
+            "length": "MC8BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "8m8cAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_xian_yuan_juan_quan.wav",
+            "length": "hjkBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "eKkdAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_guan_kuan_zhuan_chuan.wav",
+            "length": "ojIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "GtweAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_jun_lia_bian_mei_ou_a_er_men.wav",
+            "length": "OsoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "VKYgAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_jun_en_qie_er_er_ou_xuan_er.wav",
+            "length": "yuUBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "HowiAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_jun_qun_xun.wav",
+            "length": "gvsAAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "oIcjAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_jun_yue_tian_wo_xi_wu_wa.wav",
+            "length": "HLIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "vDklAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_jun_suan_mian_shou_en_er_sha.wav",
+            "length": "HLIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "2OsmAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_nong_ma_xu_ma_qun_ma_er_miao.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "MM4oAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_bing_ping_ming_ding_ting_ning_ling_jing.wav",
+            "length": "PggCAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "btYqAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_chong_rong_zong_cong.wav",
+            "length": "MC8BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "ngUsAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_dao_tao_nao_lao.wav",
+            "length": "2iQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "eCotAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_diao_tiao_liao_jiao.wav",
+            "length": "ojIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "Gl0uAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_fen_nen_ken_hen.wav",
+            "length": "visBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "2IgvAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_gang_kang_hang_zhang.wav",
+            "length": "ojIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "erswAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_shua_dia_ai_bai.wav",
+            "length": "hBoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "/tUxAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_chi_dei_ni_feng_hui_pan_ei_qiao.wav",
+            "length": "POkBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "Or8zAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_chi_ya_bo_ya_nu_ya_lv_ya.wav",
+            "length": "ALkBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "Ong1AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_chi_an_mo_an_lu_an_nv_an.wav",
+            "length": "HLIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "Vio3AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_chi_la_yun_la_ci_lia_shi_lia.wav",
+            "length": "OsoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "kPQ4AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_chi_hong_ling_hua_lv_hou_wei_an.wav",
+            "length": "yuUBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "Wto6AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ming_ke_she_shui_e_te_yue.wav",
+            "length": "qq4BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "BIk8AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_tun_lun_gun_kun.wav",
+            "length": "TCgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "ULE9AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_fou_dou_tou_lou_gou_kou_hou_zhou.wav",
+            "length": "ruwBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "/p0/AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ting_ning_ling_jing.wav",
+            "length": "2iQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "2MJAAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ne_le_ge_ke.wav",
+            "length": "9h0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "zuBBAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_hai_zhai_chai_shai_zai_cai_sai_wai.wav",
+            "length": "eBkCAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "RvpDAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ka_ha_zha_cha.wav",
+            "length": "MC8BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "dilFAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_mie_die_tie_nie_lie_jie_qie_xie.wav",
+            "length": "BPcBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "eiBHAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_mi_chai_xiang_xun_chuai_yang_zai_a.wav",
+            "length": "BPcBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "fhdJAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_bi_bai_ha_yue_can_mie_cha_xue.wav",
+            "length": "POkBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "ugBLAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_li_xue_si_xue_ri_xue_chong_xue.wav",
+            "length": "POkBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "9ulMAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_li_meng_miao_min_mo_niu_ai.wav",
+            "length": "xqcBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "vJFOAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ku_zhu_chu_shu.wav",
+            "length": "TCgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "CLpPAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ze_ce_se_pie.wav",
+            "length": "MC8BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "OOlQAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_lang_gang_kang_hang_zhang_chang_shang_rang.wav",
+            "length": "kvMBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "ytxSAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_he_zhe_che_re.wav",
+            "length": "9h0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "wPpTAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_en_ben_pen_men.wav",
+            "length": "hBoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "RBVVAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ye_ai_qian_ai_peng_ai_er_ai.wav",
+            "length": "HtEBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "YuZWAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_yin_fo_miao_ci_fou_su_hao_an.wav",
+            "length": "yuUBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "LMxYAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_qun_ao_nie_e_en_juan_e_er.wav",
+            "length": "yuUBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "9rFaAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_qun_hao_en_xie_kao_er_ji_hua.wav",
+            "length": "Ig8CAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "GMFcAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_keng_heng_weng_zheng_cheng_sheng_reng_zeng.wav",
+            "length": "6P0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "AL9eAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_po_ao_zong_ao_gu_ao_ju_ao.wav",
+            "length": "5L8BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "5H5gAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_kan_kan_san_lang_zang_wang_gao_pei.wav",
+            "length": "WgECAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "PoBiAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_kan_han_zhan_chan_shan_ran_zan_can.wav",
+            "length": "6P0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "Jn5kAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_tian_nian_lian_qian.wav",
+            "length": "TCgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "cqZlAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_she_re_ze_ce_se_ye_bie_pie.wav",
+            "length": "sAsCAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "IrJnAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ao_bao_pao_mao_dao_tao_nao_lao.wav",
+            "length": "dNsBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "lo1pAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_nv_fen_qie_hu_hua_jun_feng_kuai.wav",
+            "length": "6P0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "fotrAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_nv_deng_juan_hun_lian_kai_ei_sai.wav",
+            "length": "WgECAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "2IxtAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ni_li_ji_qi_xi_yi_yin_bin.wav",
+            "length": "OsoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "EldvAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_wa_kua_hua_zhua.wav",
+            "length": "EhcBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "JG5wAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_niang_bao_pao_mao.wav",
+            "length": "9h0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "GoxxAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_hun_zhun_chun_shun_run_zun_cun_sun.wav",
+            "length": "6P0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "AopzAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ning_qing_ruo_sheng_shun_ou_e_ang.wav",
+            "length": "dvoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "eIR1AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_xuan_teng_neng_leng.wav",
+            "length": "FDYBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "jLp2AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_bin_gang_en_yue_bing_guang_er_he.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "5Jx4AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_feng_e_er_e_ou_yi_e.wav",
+            "length": "ALkBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "5FV6AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_kei_hei_zhei_shei_zhei_wei_dui_tui.wav",
+            "length": "sAsCAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "lGF8AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zun_cun_sun_dian.wav",
+            "length": "ojIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "NpR9AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_kao_hao_zhao_chao.wav",
+            "length": "MC8BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "ZsN+AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_beng_bao_fan_hua_ran_jia_suan_lia.wav",
+            "length": "POkBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "oqyAAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_cen_sen_wen_dun_tun_lun_gun_kun.wav",
+            "length": "ruwBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "UJmCAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ru_zu_cu_su.wav",
+            "length": "FDYBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "ZM+DAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ping_chai_ai_an_an_ang_a.wav",
+            "length": "VKQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "uHOFAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_yong_jiong_呎_xiong.wav",
+            "length": "ojIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "WqaGAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_gui_kui_hui_zhui_chui_shui_rui_zui.wav",
+            "length": "kvMBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "7JmIAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_hu_zhu_chu_shu_ru_zu_cu_su.wav",
+            "length": "6P0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "1JeKAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zen_sen_wen_dun.wav",
+            "length": "2iQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "rryLAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_nu_er_nv_er_qun_er_xie_ou.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "Bp+NAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_si_niang_shi_niang_long_niang_mu_niang.wav",
+            "length": "Ig8CAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "KK6PAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_si_kei_ei_en_ye_miao_zhi_kui.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "gJCRAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_si_ang_shi_ang_fo_ang_rong_ang.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "2HKTAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_si_gei_xiao_ang_ou_shuai_er_hua.wav",
+            "length": "AtgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "2kqVAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_si_teng_xue_zhi_ti_yue_xu_ting.wav",
+            "length": "eBkCAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "UmSXAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_si_ei_chi_ei_wo_ei_song_ei.wav",
+            "length": "OsoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "jC6ZAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_si_a_ri_a_xu_a_qun_a.wav",
+            "length": "yMYBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "VPWaAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_nin_ne_ai_ting_nue_sen_an.wav",
+            "length": "VKQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "qJmcAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_nin_suan_jing_suan_si_suan_lv_suan.wav",
+            "length": "kvMBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "Oo2eAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_bie_an_xian_an_meng_an_er_an.wav",
+            "length": "dNsBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "rmigAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_han_zhan_chan_shan.wav",
+            "length": "MC8BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "3pehAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_pu_xue_beng_xiong_a_er_xiu_er.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "NnqjAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_chou_shou_rou_zou_cou_sou_you_miu.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "jlylAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_chai_shai_zai_cai.wav",
+            "length": "MC8BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "voumAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_la_ga_ka_ha_zha_cha_sha_za.wav",
+            "length": "AtgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "wGOoAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_pai_mai_dai_tai_nai_lai_gai_kai.wav",
+            "length": "BPcBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "xFqqAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_lin_pie_shen_ei_zi_pen_en_er.wav",
+            "length": "yMYBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "jCGsAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_pin_min_nin_lin_jin_qin_xin_ying.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "5AOuAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zhuai_chuai_shuai_an.wav",
+            "length": "2iQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "viivAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_nuo_罗_guo_kuo_huo_zhuo_chuo_shuo.wav",
+            "length": "yuUBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "iA6xAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zhuo_chuo_shuo_zuo.wav",
+            "length": "MC8BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "uD2yAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_lue_jue_que_xue.wav",
+            "length": "visBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "dmmzAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_jie_qie_xie_nue.wav",
+            "length": "2iQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "UI60AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_cuo_suo_hong_zhong.wav",
+            "length": "MC8BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "gL21AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_da_ta_那_ga.wav",
+            "length": "hBoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "BNi2AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_mo_e_cong_e_ku_e_qu_e.wav",
+            "length": "IPABAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "JMi4AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_cheng_sheng_reng_zeng.wav",
+            "length": "FDYBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "OP65AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_cao_sao_yao_biao_piao_miao_diao_tiao.wav",
+            "length": "zAQCAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "BAO8AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ca_sa_ya_lia_jia_qia_xia_wa.wav",
+            "length": "dNsBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "eN69AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_pan_man_fan_dan_tan_nan_lan_gan.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "0MC/AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_gong_kong_hong_zhong_chong_rong_zong_cong.wav",
+            "length": "zAQCAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "nMXBAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_qiao_xiao_me_de.wav",
+            "length": "aCEBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "BOfCAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_fu_xian_yi_zhe_e_ei_ye_yin.wav",
+            "length": "AtgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "Br/EAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_fang_dang_tang_nang.wav",
+            "length": "2iQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "4OPFAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ri_jun_jia_bu_jia_er_kei_ang.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "OMbHAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ri_bo_po_mo_fo_wo_duo_tuo.wav",
+            "length": "BPcBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "PL3JAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ri_pi_reng_quan_suan_gong_pin_ri.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "lJ/LAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ang_bang_pang_mang_fang_dang_tang_nang.wav",
+            "length": "AtgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "lnfNAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_xing_wo_duo_tuo.wav",
+            "length": "MC8BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "xqbOAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_yun_dan_en_miu_fou_huo_li_guai.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "HonQAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_yun_za_pie_zheng_a_lian_zhi_zhuo.wav",
+            "length": "WgECAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "eIrSAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_yun_an_die_ang_yuan_ang_feng_ang.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "0GzUAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_yun_nuo_run_ao_er_niang_mi_niang.wav",
+            "length": "dNsBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "REjWAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_yun_tuo_xue_er_yue_xin_yue.wav",
+            "length": "yMYBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "DA/YAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_bu_ban_pa_ang_yuan_gua_ao_yu.wav",
+            "length": "dNsBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "gOrZAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_geng_heng_weng_zheng.wav",
+            "length": "TCgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "zBLbAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_曾_seng_er_bi_pi_mi_di_ti.wav",
+            "length": "kvMBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "XgbdAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_mu_fu_du_tu_nu_lu_gu_ku.wav",
+            "length": "IPABAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "fvbeAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_sha_za_sa_ya.wav",
+            "length": "visBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "PCLgAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_lai_gai_kai_zhai.wav",
+            "length": "hBoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "wDzhAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_shuan_ruan_zuan_cuan.wav",
+            "length": "TCgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "DGXiAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_sang_yang_liang_jiang.wav",
+            "length": "9h0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "AoPjAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_huan_zhuan_chuan_shuan_ruan_zuan_cuan_suan.wav",
+            "length": "zAQCAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "zoflAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ou_pou_mou_dou.wav",
+            "length": "aCEBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "NqnmAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_min_lu_lia_ming_lv_lia_zi_la.wav",
+            "length": "OsoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "cHPoAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_shui_rui_zui_sui.wav",
+            "length": "MC8BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "oKLpAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_wang_guang_kuang_huang_zhuang_chuang_shuang_niang.wav",
+            "length": "6P0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "iKDrAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_bo_bin_cao_nie_fang_sui_jiao_sun.wav",
+            "length": "zAQCAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "VKXtAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zi.wav",
+            "length": "tJAAAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "CDbuAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zi_bao_huai_liang_lai_mian_cang_mi.wav",
+            "length": "POkBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "RB/wAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zi_miao_zhi_miao_nong_miao_pu_miao.wav",
+            "length": "POkBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "gAjyAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zi_xi_ze_ao_zhi_xin_zeng_yan.wav",
+            "length": "yuUBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "Su7zAAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zi_chuai_ang_ai_ao_xue_yu_chan.wav",
+            "length": "AtgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "TMb1AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zi_hua_shi_hua_ju_hua_xun_hua.wav",
+            "length": "zAQCAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "GMv3AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_shao_rao_zao_sao.wav",
+            "length": "2iQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "8u/4AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_peng_meng_feng_deng_teng_neng_leng_geng.wav",
+            "length": "sAsCAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "ovv6AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ran_zan_can_wan.wav",
+            "length": "TCgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "7iP8AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_jian_qian_xian_yuan_juan_quan_xuan_beng.wav",
+            "length": "XCACAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "SkT+AAAAAAA=",
+            "channel_count": 1,
+            "file_name": "_xun_shua_er_tie_weng_yue_qin_tian.wav",
+            "length": "Ig8CAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "bFMAAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_xun_ya_bie_zi_zuo_a_nian_zong.wav",
+            "length": "5t4BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "UjICAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_xun_ken_a_yan_le_wen_ai.wav",
+            "length": "cJ0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "ws8DAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_xun_e_lie_ei_quan_ei_teng_ei.wav",
+            "length": "HtEBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "4KAFAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_die_tie_nie_lie.wav",
+            "length": "2iQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "usUGAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_te_ne_le_ge_ke_he_zhe_che.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "EqgIAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_chang_shang_rang_cang.wav",
+            "length": "visBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "0NMJAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_lv_guo_nao_ei_a_qun_gong_hua.wav",
+            "length": "BPcBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "1MoLAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ban_man_fan_dan.wav",
+            "length": "2iQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "ru8MAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_gua_kua_hua_zhua_shua_dia_ai_bai.wav",
+            "length": "kvMBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "QOMOAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ci_shua_ri_shua_kong_shua_qu_shua.wav",
+            "length": "ruwBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "7s8QAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ci_nen_ang_chi_neng_pie_suan.wav",
+            "length": "HLIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "CoISAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ci_de_huang_ang_ao_ai_e_jue.wav",
+            "length": "yuUBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "1GcUAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ci_er_ri_er_duo_er_jiong_er.wav",
+            "length": "VsMBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "KisWAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ci_ju_qu_ke_pao_ou_xue.wav",
+            "length": "dNsBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "ngYYAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_tan_nan_lan_gan.wav",
+            "length": "2iQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "eCsZAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_deng_er_mi_er_xin_er_ying_er.wav",
+            "length": "HtEBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "lvwaAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zhen_chen_shen_ren.wav",
+            "length": "visBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "VCgcAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zhi_qie_shuo_yue_fu_que_yue.wav",
+            "length": "crwBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "xuQdAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zhi_gui_tong_gui_yao_ao_e_ning.wav",
+            "length": "AtgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "yLwfAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zhi_ai_po_ai_yu_ai_xun_ai.wav",
+            "length": "5t4BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "rpshAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zhi_cai_xu_can_a_ou_chuan_ai.wav",
+            "length": "ruwBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "XIgjAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_qiu_xiu_lu_gu.wav",
+            "length": "MC8BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "jLckAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_kong_ou_zhu_ou_lv_ou_xun_ou.wav",
+            "length": "dNsBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "AJMmAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_tu_ei_xu_ei_yun_ei_jie_en.wav",
+            "length": "IPABAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "IIMoAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_duan_tuan_nuan_luan.wav",
+            "length": "visBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "3q4pAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_pian_en_neng_en_er_en_pi_en.wav",
+            "length": "HtEBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "/H8rAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_yue_nue_lue_jue_que_xue_ei_bei.wav",
+            "length": "ruwBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "qmwtAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_gei_hei_zhei_shei.wav",
+            "length": "FDYBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "vqIuAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_miu_niu_liu_jiu.wav",
+            "length": "TCgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "CssvAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_罗_guo_kuo_huo.wav",
+            "length": "TCgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "VvMwAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ba_pa_ma_fa.wav",
+            "length": "oBMBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "9gYyAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_qi_si_qin_song_sou_ao.wav",
+            "length": "qq4BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "oLUzAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_zhong_an_bin_zhu_ai_ping_zha.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "+Jc1AQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_shua_ni_shua_jin_shua_xing_shua.wav",
+            "length": "yuUBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "wn03AQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_wa_yin_wa_bing_wa_ci_wa.wav",
+            "length": "crwBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "NDo5AQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_rong_suan_ci_rou_ei_chi_ru.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "jBw7AQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_lue_re_xue_bi_lei_er_liu.wav",
+            "length": "rM0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "OOo8AQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_cao_wai_ruan_sa_en_jie_gai.wav",
+            "length": "BPcBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "POE+AQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_ang_qi_ang_lin_ang_ning_ang.wav",
+            "length": "OsoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "dqtAAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_zu_a_shi_za_ju_za.wav",
+            "length": "4qABAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "WExCAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_duan_ao_a_yin_dang_an_e.wav",
+            "length": "OsoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "khZEAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_fan_er_gan_ou_nai_en_nin.wav",
+            "length": "AtgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "lO5FAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_neng_niang_pi_nuo_qian_se_a.wav",
+            "length": "yuUBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "XtRHAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_su_tu_shi_suan_di_suan.wav",
+            "length": "ALkBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "Xo1JAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_ying_yong_ai_ci_you_ou.wav",
+            "length": "VKQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "sjFLAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_xu_nv_xin_xun_xing_xue.wav",
+            "length": "rM0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "Xv9MAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_ei_bi_ei_qin_ei_qing_ei.wav",
+            "length": "crwBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "0LtOAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_er_a_ji_a_pin_a_ming_a.wav",
+            "length": "OKsBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "CGdQAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_pei_mei_fei_dei_tei_nei_lei_gei.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "YElSAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zang_cang_sang_yang_liang_jiang_qiang_xiang.wav",
+            "length": "BPcBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "ZEBUAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_yan_bian_pian_mian_dian_tian_nian_lian.wav",
+            "length": "sAsCAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "FExWAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_qiang_xiang_guang_kuang.wav",
+            "length": "visBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "0ndXAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_sai_wai_kuai_huai.wav",
+            "length": "TCgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "HqBYAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_yao_biao_piao_miao.wav",
+            "length": "MC8BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "Ts9ZAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ruo_zuo_cuo_suo_dong_tong_nong_long.wav",
+            "length": "dvoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "xMlbAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ying_bei_cuan_niao_ga_a_ai_jiang.wav",
+            "length": "AtgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "xqFdAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ying_yue_zi_yue_chi_yue_hong_yue.wav",
+            "length": "kvMBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "WJVfAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ying_cuan_xuan_han_xia_er_chan_ya.wav",
+            "length": "dvoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "zo9hAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_huang_zhuang_chuang_shuang.wav",
+            "length": "hjkBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "VMliAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_meng_cuan_qia_ei_min_chuai_pai_qiang.wav",
+            "length": "ruwBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "ArZkAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_xu_po_seng_suan_qun_pou_ang.wav",
+            "length": "yMYBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "ynxmAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_shi_wa_zhong_wa_yu_wa_qun_wa.wav",
+            "length": "IPABAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "6mxoAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_shi_sa_du_sa_nv_sa_yun_sa.wav",
+            "length": "dNsBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "XkhqAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_shi_fang_ei_yue_dong_fei_xue.wav",
+            "length": "jrUBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "7P1rAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ei_bei_mei_fei.wav",
+            "length": "2iQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "xiJtAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_du_ang_lv_ang_jun_ang_tie_ao.wav",
+            "length": "rM0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "cvBuAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zhun_chun_shun_run.wav",
+            "length": "visBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "MBxwAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zhei_wei_dui_tui.wav",
+            "length": "aCEBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "mD1xAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_gen_ken_hen_zhen_chen_shen_ren_zen.wav",
+            "length": "dvoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "DjhzAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ti_sha_lin_sha_qing_sha_zi_sha.wav",
+            "length": "POkBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "SiF1AQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ti_ke_que_me_suan_pin_kei_ao.wav",
+            "length": "kvMBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "3BR3AQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_yu_bang_yun_bang_wa_e_fen_huan.wav",
+            "length": "yuUBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "pvp4AQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_yu_ran_xun_ran_er_sa_ling_sa.wav",
+            "length": "OsoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "4MR6AQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_song_yong_jiong_呎_xiong_ou_pou_mou.wav",
+            "length": "dvoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "Vr98AQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_tong_de_lie_hang_e_ming_fo_jian.wav",
+            "length": "ruwBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "BKx+AQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_zou_cou_sou_you.wav",
+            "length": "TCgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "UNR/AQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_suan_bang_pang_mang.wav",
+            "length": "2iQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "KvmAAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ding_mou_an_si_mu_ma_ri_ma.wav",
+            "length": "OsoBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "ZMOCAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ding_ou_si_ou_zhi_ou_tuo_ou.wav",
+            "length": "dNsBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "2J6EAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_qin_en_xing_en_zi_en_shi_en.wav",
+            "length": "HtEBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "9m+GAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_a_ba_pa_ma_fa_da_ta_那.wav",
+            "length": "rM0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "oj2IAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_pi_cai_suo_hai_yun_can_yue.wav",
+            "length": "rM0BAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "TguKAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_qing_xing_zi_ci_si_zhi_chi_shi.wav",
+            "length": "kvMBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "4P6LAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_mian_ou_leng_ou_di_ou_yin_ou.wav",
+            "length": "WOIBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "OOGNAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ju_miao_xun_miao_pian_ne_xian_ren.wav",
+            "length": "dNsBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "rLyPAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_bian_ao_deng_ao_er_ao_xi_ao.wav",
+            "length": "VsMBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "AoCRAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_e_ba_ca_la_miao_cai_fa_niang.wav",
+            "length": "kNQBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "klSTAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_qu_niang_jun_niang_er_pen_e_an.wav",
+            "length": "BPcBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "lkuVAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_qu_zha_jun_zha_mie_a_jian_a.wav",
+            "length": "yuUBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "YDGXAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_gao_kao_hao_zhao_chao_shao_rao_zao.wav",
+            "length": "zAQCAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "LDaZAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_niao_liao_jiao_qiao_xiao_e_me_de.wav",
+            "length": "dNsBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "oBGbAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_ji_ai_min_ai_ding_ai_zi_ai.wav",
+            "length": "HtEBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "vuKcAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_mai_dai_tai_nai.wav",
+            "length": "LhABAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "7PKdAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_hou_zhou_shou_rou.wav",
+            "length": "TCgBAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        },
+        {
+            "begin_index": "OBufAQAAAAA=",
+            "channel_count": 1,
+            "file_name": "_long_sha_ju_sha_qun_sha_dian_shu.wav",
+            "length": "WgECAAAAAAA=",
+            "sample_rate": 44100,
+            "sample_type": 3,
+            "use_w64": false
+        }
+    ],
+    "sample_rate": 44100,
+    "sample_type": 3,
+    "total_length": "khyhAQAAAAA=",
+    "version": 2
+}
